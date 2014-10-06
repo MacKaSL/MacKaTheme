@@ -9,7 +9,7 @@ Changes the way you look at the XCode.
 
 **MacKaTheme**
 
-In Xcode Package Manager [Alcatraz](https://github.com/MacKaSL). Just search for `MacKaTheme` -> check the checkmark button -> restart Xcode.
+In Xcode Package Manager [MacKaSL](https://github.com/MacKaSL). Just search for `MacKaTheme` -> check the checkmark button -> restart Xcode.
 
 **Manually**
 
