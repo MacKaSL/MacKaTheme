@@ -3,7 +3,7 @@
 
 Changes the way you look at the XCode.
 
-![mackaTheme](https://raw.githubusercontent.com/MacKaSL/MacKaTheme/master/Screen Shot 2014-10-06 at 1.28.24 PM.png")
+![MackaTheme](https://raw.githubusercontent.com/MacKaSL/MacKaTheme/master/Screen Shot 2014-10-06 at 1.28.24 PM.png "MacKaTheme.dvtcolortheme")
 
 # Installation #
 
