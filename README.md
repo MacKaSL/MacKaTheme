@@ -3,7 +3,7 @@
 
 Changes the way you look at your code. It's more colorful and easy to recognize by the color. XCode 10 updated! Even perfect with dark mode.
 
-![MackaTheme](https://raw.githubusercontent.com/MacKaSL/MacKaTheme/master/Screen Shot 2014-10-06 at 1.28.24 PM.png "MacKaTheme.dvtcolortheme")
+![MackaTheme](https://github.com/MacKaSL/MacKaTheme/blob/master/Screen%20Shot%202018-10-05%20at%2011.55.38%20AM.png)
 
 # Installation #
 
